@@ -1,0 +1,7 @@
+for title st.title()
+for header st.header()
+subheader st.subheader()
+
+we can also use markdown for text
+# for headings
+: : for emoji
